@@ -194,3 +194,8 @@ string s2 = "Hello";
 Console.WriteLine(s1 != s2); // output: False
 */
 
+// Exercise - Implement the conditional operator
+int saleAmount = 1001;
+int discount = saleAmount > 1000 ? 100 : 50;
+Console.WriteLine($"Discount: {discount}");
+
