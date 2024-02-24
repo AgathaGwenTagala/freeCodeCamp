@@ -174,6 +174,12 @@ Console.WriteLine(1 <= 1);
 */
 
 // Use a method that returns a Boolean
-string pangram = "The quick brown fox jumps over the lazy dog.";
+/* string pangram = "The quick brown fox jumps over the lazy dog.";
 Console.WriteLine(pangram.Contains("fox"));
 Console.WriteLine(pangram.Contains("cow"));
+*/
+
+// Use the Logical Negation operator
+string pangram = "The quick brown fox jumps over the lazy dog.";
+Console.WriteLine(!pangram.Contains("fox"));
+Console.WriteLine(!pangram.Contains("cow"));
