@@ -9,3 +9,5 @@ if (flag)
 
 value = 10;
 Console.WriteLine($"Outside the code block: {value}");
+
+// Exercise - Remove code blocks from if statements
