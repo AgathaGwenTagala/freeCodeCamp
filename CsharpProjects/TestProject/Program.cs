@@ -147,5 +147,11 @@ Console.WriteLine(newMessage);
 Console.WriteLine($"'o' appears {letterCount} times.");
 */
 
+// Evaulate boolean expressions to make decisions in C#
+// Console.WriteLine("a" == "a");
+// Console.WriteLine("a" == "A");
+// Console.WriteLine(1 == 2);
 
-
+// string myValue = "a";
+// Console.WriteLine(myValue == "a");
+// Console.WriteLine("a" == "a ");
