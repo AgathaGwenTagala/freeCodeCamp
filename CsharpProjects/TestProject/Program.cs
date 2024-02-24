@@ -207,6 +207,38 @@ Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
 */
 
 // Exercise - Complete a challenge activity using conditional operators
-Random coin = new Random();
+/* Random coin = new Random();
 int num = coin.Next(1, 2);
 Console.WriteLine($"Result: {(num == 1 ? "heads" : "tails")}");
+*/
+
+// Exercise - Complete a challenge activity using Boolean expressions
+string permission = "Admin|Manager";
+int level = 53;
+
+if (permission.Contains("Admin"))
+{
+    if (level > 55)
+    {
+        Console.WriteLine("Welcome, Super Admin user.");
+    }
+    else
+    {
+        Console.WriteLine("Welcome, Admin user.");
+    }
+}
+else if (permission.Contains("Manager"))
+{
+    if (level >= 20)
+    {
+        Console.WriteLine("Contact an Admin for access.");
+    }
+    else
+    {
+        Console.WriteLine("You do not have sufficient privileges.");
+    }
+}
+else
+{
+    Console.WriteLine("You do not have sufficient privileges.");
+}
