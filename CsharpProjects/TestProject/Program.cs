@@ -201,6 +201,12 @@ Console.WriteLine($"Discount: {discount}");
 */
 
 // Use the conditional operator inline
-int saleAmount = 1001;
+/* int saleAmount = 1001;
 // int discount = saleAmount > 1000 ? 100 : 50;
 Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
+*/
+
+// Exercise - Complete a challenge activity using conditional operators
+Random coin = new Random();
+int num = coin.Next(1, 2);
+Console.WriteLine($"Result: {(num == 1 ? "heads" : "tails")}");
