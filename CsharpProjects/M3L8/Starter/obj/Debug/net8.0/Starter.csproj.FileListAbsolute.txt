@@ -1,0 +1,15 @@
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M3L8\Starter\obj\Debug\net8.0\ref\Starter.dll
