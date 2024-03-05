@@ -1,0 +1,15 @@
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\bin\Debug\net8.0\M4L1.exe
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\bin\Debug\net8.0\M4L1.deps.json
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\bin\Debug\net8.0\M4L1.runtimeconfig.json
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\bin\Debug\net8.0\M4L1.dll
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\bin\Debug\net8.0\M4L1.pdb
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.AssemblyInfoInputs.cache
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.AssemblyInfo.cs
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.csproj.CoreCompileInputs.cache
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.sourcelink.json
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.dll
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\refint\M4L1.dll
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.pdb
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\M4L1.genruntimeconfig.cache
+C:\Users\Agatha Gwen\OneDrive - Polytechnic University of the Philippines\Gwen\freeCodeCamp\CsharpProjects\M4L1\obj\Debug\net8.0\ref\M4L1.dll
